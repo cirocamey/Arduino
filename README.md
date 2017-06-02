@@ -1,3 +1,3 @@
 # Arduino
 
-Here I have all the codes from my AC
+I have a code that displays the voltage of a 5V battery in the Arduino Serial
