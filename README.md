@@ -1,3 +1,3 @@
 # Arduino
 
-I have a code that displays the voltage of a 5V battery in the Arduino Serial
+I have a code that makes math operation displaying the results in the Arduino Serial
